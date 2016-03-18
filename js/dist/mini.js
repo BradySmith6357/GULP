@@ -1,0 +1,1 @@
+var something=[1,2,3];something.forEach(function(o,t,a){dotheStuff(o,a)});var myAwesomeVariable="potato",anotherThing="More potatos!";

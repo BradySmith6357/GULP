@@ -1,0 +1,11 @@
+nav {
+	width: 100%;
+	background-color: grey;
+}
+
+.nav-display {
+	text-decoration: none;
+	color: black;
+	text-align: right;
+}
+
